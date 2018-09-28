@@ -1,0 +1,28 @@
+//Colors
+
+//Size
+$s-size: 1.2rem;
+$m-size: 1.6rem;
+$l-size: 3.2rem;
+$xl-size: 4.8rem;
+
+$lightblue: #11D0E2;
+$darkblue: #275BE7;
+$lightorange: #FFB211;
+$darkorange: #FF7800;
+
+.button-transparent{
+    background: none;
+    color: inherit;
+    border: none;
+    padding: 0;
+    font: inherit;
+    cursor: pointer;
+    outline: inherit;
+}
+
+.remove-button{
+  margin-top: $m-size;
+  padding: 3px;
+
+}
